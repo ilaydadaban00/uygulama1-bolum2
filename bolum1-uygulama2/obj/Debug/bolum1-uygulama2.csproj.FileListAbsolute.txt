@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1-uygulama2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1-uygulama2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1_uygulama2.grpArkaplanrengi.resources
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1_uygulama2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1-uygulama2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1-uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\bin\Debug\bolum1-uygulama2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\bin\Debug\bolum1-uygulama2.exe
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\bin\Debug\bolum1-uygulama2.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1-uygulama2.exe
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum1Uygulama1\bolum1-uygulama2\bolum1-uygulama2\obj\Debug\bolum1-uygulama2.pdb
