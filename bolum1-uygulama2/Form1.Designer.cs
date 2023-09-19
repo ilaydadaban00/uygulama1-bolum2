@@ -29,19 +29,19 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btnrenk = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnKirmizi = new System.Windows.Forms.Button();
+            this.btnYesil = new System.Windows.Forms.Button();
+            this.btnMavi = new System.Windows.Forms.Button();
+            this.brnTuruncu = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.button3);
-            this.groupBox1.Controls.Add(this.button2);
-            this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.btnrenk);
+            this.groupBox1.Controls.Add(this.brnTuruncu);
+            this.groupBox1.Controls.Add(this.btnMavi);
+            this.groupBox1.Controls.Add(this.btnYesil);
+            this.groupBox1.Controls.Add(this.btnKirmizi);
             this.groupBox1.Location = new System.Drawing.Point(153, 65);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(311, 164);
@@ -49,49 +49,49 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Arka plan rengi";
             // 
-            // btnrenk
+            // btnKirmizi
             // 
-            this.btnrenk.BackColor = System.Drawing.Color.Red;
-            this.btnrenk.Location = new System.Drawing.Point(29, 30);
-            this.btnrenk.Name = "btnrenk";
-            this.btnrenk.Size = new System.Drawing.Size(106, 40);
-            this.btnrenk.TabIndex = 0;
-            this.btnrenk.Text = "kırmızı";
-            this.btnrenk.UseVisualStyleBackColor = false;
-            this.btnrenk.Click += new System.EventHandler(this.btnrenk_Click);
+            this.btnKirmizi.BackColor = System.Drawing.Color.Red;
+            this.btnKirmizi.Location = new System.Drawing.Point(29, 30);
+            this.btnKirmizi.Name = "btnKirmizi";
+            this.btnKirmizi.Size = new System.Drawing.Size(106, 40);
+            this.btnKirmizi.TabIndex = 0;
+            this.btnKirmizi.Text = "kırmızı";
+            this.btnKirmizi.UseVisualStyleBackColor = false;
+            this.btnKirmizi.Click += new System.EventHandler(this.btnrenk_Click);
             // 
-            // button1
+            // btnYesil
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.button1.Location = new System.Drawing.Point(164, 30);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 40);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "yeşil";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnYesil.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnYesil.Location = new System.Drawing.Point(164, 30);
+            this.btnYesil.Name = "btnYesil";
+            this.btnYesil.Size = new System.Drawing.Size(106, 40);
+            this.btnYesil.TabIndex = 1;
+            this.btnYesil.Text = "yeşil";
+            this.btnYesil.UseVisualStyleBackColor = false;
+            this.btnYesil.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // btnMavi
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button2.Location = new System.Drawing.Point(29, 76);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(106, 40);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "mavi";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnMavi.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnMavi.Location = new System.Drawing.Point(29, 76);
+            this.btnMavi.Name = "btnMavi";
+            this.btnMavi.Size = new System.Drawing.Size(106, 40);
+            this.btnMavi.TabIndex = 2;
+            this.btnMavi.Text = "mavi";
+            this.btnMavi.UseVisualStyleBackColor = false;
+            this.btnMavi.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button3
+            // brnTuruncu
             // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.button3.Location = new System.Drawing.Point(164, 76);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(106, 40);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "turuncu";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.brnTuruncu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.brnTuruncu.Location = new System.Drawing.Point(164, 76);
+            this.brnTuruncu.Name = "brnTuruncu";
+            this.brnTuruncu.Size = new System.Drawing.Size(106, 40);
+            this.brnTuruncu.TabIndex = 3;
+            this.brnTuruncu.Text = "turuncu";
+            this.brnTuruncu.UseVisualStyleBackColor = false;
+            this.brnTuruncu.Click += new System.EventHandler(this.button3_Click);
             // 
             // grpArkaplanrengi
             // 
@@ -109,10 +109,10 @@
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btnrenk;
+        private System.Windows.Forms.Button brnTuruncu;
+        private System.Windows.Forms.Button btnMavi;
+        private System.Windows.Forms.Button btnYesil;
+        private System.Windows.Forms.Button btnKirmizi;
     }
 }
 
